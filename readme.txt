@@ -6,3 +6,4 @@ Git tracks changes of files..
 I DO SOMETHING TO THIS BRANCH .
 i add this on branch dev 
 Creating a new branch is quick AND simple.
+add merge.
